@@ -28,7 +28,7 @@ Run `./main.sh` to train on the SiblingsDB dataset. Update `dir_data` in the bas
 
 1.2 Run `imageformat.ipynb` to make sure the images are formatted to .png files.
 
-1.3 (only for demopgraphic experiment) Download [UTKFace](https://www.kaggle.com/datasets/jangedoo/utkface-new) in another data path then `your_data_path/benchmark`.
+1.3 (Only for demopgraphic experiment) Download [UTKFace](https://www.kaggle.com/datasets/jangedoo/utkface-new) in another data path then `your_data_path/benchmark`.
 
 1.4 Change current directory in `imageformat.ipynb` to the one generated in 1.3 and run`imageformat.ipynb`, to make sure the images are formatted to .png files.
 
