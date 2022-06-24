@@ -11,7 +11,7 @@ Most of the code used in this thesis was conducted from another Github repositor
 - Matplotlib
 - OpenCV
 
-The code is seperated in two subfolders: one for the DASR model (folder name: DASR) and none for the model without DRL (folder name: Without DRL).
+The code is seperated in two subfolders: one for the DASR model (folder name: DASR) and one for the model without DRL (folder name: Without DRL).
 
 ## Train
 ### 1. Prepare training data 
